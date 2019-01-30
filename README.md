@@ -1,4 +1,4 @@
-# Excel Homework and partial General Notes
+# Excel Homework and Partial General Notes
 
 
 Answers to excel homework, but I am also going to centralize my general notes here.
@@ -6,7 +6,7 @@ Answers to excel homework, but I am also going to centralize my general notes he
 I am going to test this in a push, then continue to with a full readme in another repository
 that isn't a homework storage one.
 
-*Notable interactions and important thoughts log*
+## Notable interactions and important thoughts log*
 
 1.29.2019 Started learning Python.
 
@@ -26,7 +26,7 @@ https://help.github.com/articles/basic-writing-and-formatting-syntax/#section-li
 For using these commands, I'm assuming that we are in the relevant directory beforehand.
 
 
-###A. BASIC BASH COMMANDS 
+### A. BASIC BASH COMMANDS 
 
 Mainly used to help us get around without having to click.
 
@@ -55,7 +55,7 @@ I conceptualize this command as saying that a folder is now prepped to interact 
 
 
 
-###Miscellany (Interesting and useful commands from StackOverflow results)
+### Miscellany (Interesting and useful commands from StackOverflow results)
 
 git remote add <name> <url>
 "If you wish to set tracking information for this branch you can do so with:"
