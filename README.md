@@ -6,7 +6,7 @@ Answers to excel homework, but I am also going to centralize my general notes he
 I am going to test this in a push, then continue to with a full readme in another repository
 that isn't a homework storage one.
 
-## For git repositories,you must initialize and pull down to the initialized folder before git status, add ., commit -m "message", and push back up to the site, or else there will be a merge error.
+#### For git repositories,you must initialize and pull down to the initialized folder before git status, add ., commit -m "message", and push back up to the site, or else there will be a merge error.
 
 However, there is an override command git pull --allow-unrelated-histories which will help.
 
