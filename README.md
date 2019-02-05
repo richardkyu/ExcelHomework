@@ -6,24 +6,9 @@ Answers to excel homework, but I am also going to centralize my general notes he
 I am going to test this in a push, then continue to with a full readme in another repository
 that isn't a homework storage one.
 
-## Notable interactions and important thoughts log*
+## For git repositories,you must initialize and pull down to the initialized folder before git status, add ., commit -m "message", and push back up to the site, or else there will be a merge error.
 
-1.29.2019 Started learning Python.
-
-* 1.29.2019 11:58 PM To Sosa - I made the commit and posted the link before the 11:59 
-deadline, but I really might have missed it if not for your reminder.
-* 1.29.2019 I also insist on using the bash command line at any available opportunity 
-until competence or until it feels like second-nature.
-
-* .md stands for markdown, and it is the file-type of the present README file, people use
-this formatting because it is easy to format into HTML when uploaded to sites like GitHub,
-according to some sources.
-
-* testing section link via GitHub's official help page (hover and drag)
-https://help.github.com/articles/basic-writing-and-formatting-syntax/#section-links
-
-
-For using these commands, I'm assuming that we are in the relevant directory beforehand.
+However, there is an override command git pull --allow-unrelated-histories which will help.
 
 
 ### A. BASIC BASH COMMANDS 
@@ -65,3 +50,25 @@ git push --set-upstream https://github.com/richardkyu/ExcelHomework master
 
 rm -rf .[^.] .??* (when i executed this in bash, it blasted my local directory's connection
 to the online directory on GitHub.
+
+
+## Notable interactions and important thoughts log*
+
+1.29.2019 Started learning Python.
+
+* 1.29.2019 11:58 PM To Sosa - I made the commit and posted the link before the 11:59 
+deadline, but I really might have missed it if not for your reminder.
+* 1.29.2019 I also insist on using the bash command line at any available opportunity 
+until competence or until it feels like second-nature.
+
+* .md stands for markdown, and it is the file-type of the present README file, people use
+this formatting because it is easy to format into HTML when uploaded to sites like GitHub,
+according to some sources.
+
+* testing section link via GitHub's official help page (hover and drag)
+https://help.github.com/articles/basic-writing-and-formatting-syntax/#section-links
+
+
+For using these commands, I'm assuming that we are in the relevant directory beforehand.
+
+
